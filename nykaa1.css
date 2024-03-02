@@ -1,0 +1,175 @@
+*{
+    margin:0;
+    padding:0;
+} 
+.f-nav,h{
+    display:flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: rgb(252,155,171);
+    height: 35px;
+    
+    
+}
+.feature{
+    display:flex;
+
+}
+.feature .app{
+    display: flex;
+    margin-inline: 22px;
+}
+.feature .app i{
+    margin-inline: 8px;
+}
+.sec-nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding:11px;
+}
+.sec-nav ul li img{
+    width:8%;
+    margin-left: 22px;
+    
+}
+.sec-nav ul li a{
+    margin-inline: 22px;
+
+}
+.sec-nav .inputs{
+    display: flex;
+}
+.sec-nav .inputs button{
+    margin-inline:22px;
+}
+.sec-nav .inputs input{
+    width:220px;
+    background-color: rgb(225,217,217);
+    border:none;
+    outline:none;
+    text-align: center;
+    font-size: 16px;
+     
+}
+.sec-nav .inputs button{
+    width:80px;
+    height:35px;
+    background-color: rgb(249,61,92);
+    color: white;
+    font-size: 17px;
+    border:none;
+    border-radius: 5px;
+}
+.items{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding:5px;
+    height:30px;
+}
+.items ul li a{
+    list-style:none;
+    margin-inline:22px;
+    text-align: center;
+
+}
+.items ul li button{
+    width: 100px;
+    height: 34px;
+    background-color: rgb(249,61,92);
+    color: white;
+    font-size: 17px;
+    border:none;
+    border-radius: 5px;
+
+}
+.items ul li{
+    list-style:none ;
+}
+
+.main-img1{
+    padding-left: 50px;
+    cursor: pointer;
+
+}
+.sec-img2{
+    padding-left: 50px;
+    border-radius: 20px;
+}
+.third-img3{
+    padding-left: 50px;
+}
+.forth-img4{
+    padding-left: 50px;
+    
+}
+.sixth-img6{
+    padding-left: 50px;
+}
+.seven-img7{
+    padding-left: 50px;
+}
+.eleven-img11{
+    padding-left: 50px;
+}
+.twelve-img12{
+    padding-left: 50px;
+}
+.thirteen-img13{
+    padding-left: 50px;
+}
+.fourteen-img14{
+    padding-left: 50px;
+}
+.fifteen-img15{
+    padding-left: 50px;
+    
+}
+
+.contact{
+    
+    width:87%;
+    padding:100px;
+    height: 5px;
+    color:white;
+
+
+
+}
+
+.cat ul{
+    list-style-type: none;
+    padding-left: 200px;
+    background-color: gray;
+    color:white;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    font-size: 15px;
+    padding:100px;
+}  
+
+
+footer {
+
+    list-style-type:none;
+    text-align: center; 
+    color:white;
+    font-size: 15px;
+}
+
+
+.story{
+    font-family:'Times New Roman', Times, serif;
+    font-size:15px;
+    padding-left: 60px;
+    color:rgb(58, 56, 56);
+
+}
+
+
+
+
+    
+
